@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/aimunnahar"><img src="https://api.daily.dev/devcards/9f5eb8690aa44584a8d8a3e660560b1c.png?r=5jp" width="400" alt="Aimun Nahar's Dev Card"/></a>
 
 <!--
 **aimun-naharr/aimun-naharr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
