@@ -2,9 +2,9 @@
 <div align='left'>
   <a href="https://app.daily.dev/aimunnahar"><img src="https://api.daily.dev/devcards/9f5eb8690aa44584a8d8a3e660560b1c.png?r=5jp" width="400" alt="Aimun Nahar's Dev Card"/></a>
 </div>
-### 🔭 I’m working at Quadrion Technologies as a Frontend Developer. 
+<!-- ###  🔭 I’m working at Quadrion Technologies as a Frontend Developer. 
 ### 🌱 I’m exploring Ml and AI 
-### 👯 I’m looking to collaborate on open source projects. 
+### 👯 I’m looking to collaborate on open source projects.  -->
 
 
 <!--
