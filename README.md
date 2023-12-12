@@ -5,8 +5,9 @@
 </div>
 
 - 🔭 I’m working at Quadrion Technologies as a Frontend Developer. 
-- 🌱 I’m exploring Ml and AI 
-- 👯 I’m looking to collaborate on open source projects. 
+- 🌱 I’m exploring backend technologies
+- 👯 I’m looking to collaborate on open source projects.
+  
 
 
 <!--
