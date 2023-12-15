@@ -1,12 +1,27 @@
-### Hi there 👋
-
+### Hi There👋
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 <div align="left">
   <a href="https://app.daily.dev/aimunnahar"><img align="right" src="https://api.daily.dev/devcards/9f5eb8690aa44584a8d8a3e660560b1c.png?r=5jp" width="350" alt="Aimun Nahar's Dev Card"/></a>
 </div>
 
 - 🔭 I’m working at Quadrion Technologies as a Frontend Developer. 
 - 🌱 I’m exploring backend technologies
-- 👯 I’m looking to collaborate on open source projects.
+- 👯 I’m looking to collaborate on open source projects
+- 🤝 I can help you with my frontend expertise
+
+
+## **📫 Reach out to me** 
+[<img src="https://img.shields.io/badge/LinkedIn-aimun-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
+[<img src="https://img.shields.io/badge/Gmail-blackedition.aimunnaharr@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
+
+
+[linkedin]: https://www.linkedin.com/in/aimun-nahar-b915b9205/
+[gmail]: mailto:blackedition.aimunnaharr@gmail.com 
+
+
+[comment]: <> ([twitter]: https://twitter.com/raihan.uddin22)
+[comment]: <> ([facebook]: https://facebook.com/raihan.uddin22)
+
   
 
 
