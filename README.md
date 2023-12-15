@@ -12,11 +12,11 @@
 
 ## **📫 Reach out to me** 
 [<img src="https://img.shields.io/badge/LinkedIn-aimun-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
-[<img src="https://img.shields.io/badge/Gmail-blackedition.aimunnaharr@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
+[<img src="https://img.shields.io/badge/Gmail-aimunnaharr@gmail-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
 
 
 [linkedin]: https://www.linkedin.com/in/aimun-nahar-b915b9205/
-[gmail]: mailto:blackedition.aimunnaharr@gmail.com 
+[gmail]: mailto:aimunnaharr@gmail.com 
 
 
 [comment]: <> ([twitter]: https://twitter.com/raihan.uddin22)
