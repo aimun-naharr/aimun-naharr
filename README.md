@@ -7,7 +7,8 @@
 
 
 - 🔭 I’m working at Quadrion Technologies as a Frontend Developer. 
-- 🌱 I’m exploring backend technologies
+- 🌱 I’m exploring animations and stuffs
+- 🤞🏽 I'm trying to organize my codes
 - 👯 I’m looking to collaborate on open source projects
 - 🤝 I can help you with my frontend expertise
 
